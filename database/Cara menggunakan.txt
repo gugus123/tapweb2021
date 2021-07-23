@@ -1,0 +1,8 @@
+Cara Akses:
+1. Nyalakan XAMPP
+2. Ketik di Browser http://localhost/tapweb2021/tapweb2021/index.php
+3. Login menggunakan
+Email: admin@gmail.com
+Password: admin
+
+Done!! Salam luar biasa
