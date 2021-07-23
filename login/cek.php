@@ -4,6 +4,6 @@
     if (isset($_SESSION['log'])) {
         # code...
     } else {
-        header('location:login.php');
+        header('location:./login/login.php');
     }
 ?>
